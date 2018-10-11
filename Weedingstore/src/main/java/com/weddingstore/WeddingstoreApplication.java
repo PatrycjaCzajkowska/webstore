@@ -1,12 +1,12 @@
-package com.weedingstore;
+package com.weddingstore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WeedingstoreApplication {
+public class WeddingstoreApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WeedingstoreApplication.class, args);
+		SpringApplication.run(WeddingstoreApplication.class, args);
 	}
 }
